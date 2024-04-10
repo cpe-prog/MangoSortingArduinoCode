@@ -15,8 +15,8 @@ Servo s5;
 
 #define WIFI_SSID "I'm in!"
 #define WIFI_PASSWORD "connected"
-#define API_KEY "AIzaSyABrBOY7_RhZbVjaNqbvYNKLYhuzS6W9sw"
-#define DATABASE_URL "mangosorting-default-rtdb.firebaseio.com/" 
+#define API_KEY ""
+#define DATABASE_URL "" 
 
 
 FirebaseData fbdo;

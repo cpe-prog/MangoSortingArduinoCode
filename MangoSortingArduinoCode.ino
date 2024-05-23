@@ -21,8 +21,8 @@ const unsigned long categoryStableTime = 1000;
 
 #define WIFI_SSID "I'm in!"
 #define WIFI_PASSWORD "connected"
-#define API_KEY "AIzaSyABrBOY7_RhZbVjaNqbvYNKLYhuzS6W9sw"
-#define DATABASE_URL "mangosorting-default-rtdb.firebaseio.com/" 
+#define API_KEY "api key"
+#define DATABASE_URL "firebase url" 
 
 
 FirebaseData fbdo;

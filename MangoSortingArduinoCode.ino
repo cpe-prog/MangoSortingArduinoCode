@@ -27,10 +27,10 @@ String lastCategory = "";
 unsigned long categoryStartTime = 0;
 const unsigned long categoryStableTime = 1000;
 
-#define WIFI_SSID "I'm in!"
-#define WIFI_PASSWORD "connected"
-#define API_KEY "AIzaSyABrBOY7_RhZbVjaNqbvYNKLYhuzS6W9sw"
-#define DATABASE_URL "mangosorting-default-rtdb.firebaseio.com/" 
+#define WIFI_SSID "wifi"
+#define WIFI_PASSWORD "password"
+#define API_KEY "api key"
+#define DATABASE_URL "database url" 
 
 
 FirebaseData fbdo;
